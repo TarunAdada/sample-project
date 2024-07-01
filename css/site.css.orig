@@ -133,8 +133,9 @@
                 top: 80px;
             }
             .content{
-                max-width: 1190px;
+                max-width: 1190px;//from y1
                 min-width: 990px;
             }
         }
+
 
